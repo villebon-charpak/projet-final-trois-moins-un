@@ -2,13 +2,13 @@
 
 ## Description du projet
 
-Insérez ici une brève description de votre projet.
+Proposition des professeurs : Chiffre de César
 
 ## Composition de l'équipe
 
-* membre 1 : responsable de ...
-* membre 2 : responsable de ...
-* etc
+* Samuel
+* Lehui 
+* Camille
 
 
 
